@@ -442,8 +442,8 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## Support
 
-- GitHub Issues: [https://github.com/yourusername/opencoins_mcp/issues](https://github.com/yourusername/opencoins_mcp/issues)
-- Documentation: [https://github.com/yourusername/opencoins_mcp/docs](https://github.com/yourusername/opencoins_mcp/docs)
+- GitHub Issues: [https://github.com/yourusername/opencoins_mcp/issues](https://github.com/singulargh/opencoins/issues)
+- Documentation: [https://github.com/yourusername/opencoins_mcp/docs](https://github.com/singulargh/opencoins/docs)
 
 ## Disclaimer
 
