@@ -1,7 +1,7 @@
 {
   "name": "@opencoins/launchpad-plugin",
   "version": "1.0.0",
-  "description": "Token launchpad service for OpenCode.ai - Deploy EVM and Solana tokens with AI assistance and built-in 1% service fee",
+  "description": "Token launchpad service for OpenCode.ai - Deploy EVM and Solana tokens with AI assistance",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -41,12 +41,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/opencoins_mcp.git"
+    "url": "https://github.com/singulargh/opencoins.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/opencoins_mcp/issues"
+    "url": "https://github.com/singulargh/opencoins/issues"
   },
-  "homepage": "https://github.com/yourusername/opencoins_mcp#readme",
+  "homepage": "https://github.com/singulargh/opencoins#readme",
   "dependencies": {
     "@opencode-ai/plugin": "latest",
     "@solana/web3.js": "^1.95.0",
