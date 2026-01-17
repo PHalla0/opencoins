@@ -84,35 +84,6 @@ Add to your OpenCode configuration file (`~/.opencode/config.json`):
 }
 ```
 
-#### From npm (Coming Soon)
-
-```bash
-npm install @opencoins/launchpad-plugin
-```
-
-### 2. Configure Your Fee Collector Addresses (Plugin Creator Only)
-
-> [!IMPORTANT]
-> **If you're a user of this plugin**: Fee collector addresses are already configured. Skip this step.
->
-> **If you're forking this plugin**: Edit `src/config.ts` and add your wallet addresses:
-
-```typescript
-export const PLUGIN_CONFIG = {
-  FEE_COLLECTOR_EVM: "0xYourEvmAddress",
-  FEE_COLLECTOR_SOLANA: "YourSolanaAddress",
-  // ...
-};
-```
-
-**Optional RPC Configuration** (for all users):
-
-Copy `.env.example` to `.env` if you want to use custom RPC endpoints:
-
-```bash
-cp .env.example .env
-```
-
 ## Usage
 
 ### 🎯 Recommended: Guided Token Launch (Interactive Wizard)
