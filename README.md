@@ -80,7 +80,7 @@ Add to your OpenCode configuration file (`~/.opencode/config.json`):
 
 ```json
 {
-  "plugins": ["file:///path/to/opencoins_mcp"]
+  "plugins": ["file:///path/to/opencoins"]
 }
 ```
 
